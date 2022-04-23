@@ -4,11 +4,10 @@ I'm Berk from Turkey, and i decided to make a new career for myself by entering 
 #### Development
 ![Development](https://www.web-ofisi.com/tema/webofisi/uploads/blog/difference-between-html-css-and-javascript.png)
 
-##Skills
+## Skills
 💻 HTML / CSS / JS
 
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning html / css / js 
 - 📫 How to reach me: kadirberkipekjob@gmail.com 
 
@@ -17,3 +16,5 @@ I'm Berk from Turkey, and i decided to make a new career for myself by entering 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirberkipek&theme=dark&show_icons=true)
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sHWXYAhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9mtznxfpdeuq48ed1el8.gif" width="250" />
