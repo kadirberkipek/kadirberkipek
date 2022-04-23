@@ -17,4 +17,4 @@ I'm Berk from Turkey, and i decided to make a new career for myself by entering 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirberkipek&theme=dark&show_icons=true)
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sHWXYAhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9mtznxfpdeuq48ed1el8.gif" width="250" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sHWXYAhg--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9mtznxfpdeuq48ed1el8.gif" width="500" />
