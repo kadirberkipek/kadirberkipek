@@ -1,11 +1,12 @@
-### Hello World 👋
-### Hi there 👋, Kadir Berk İpek
+
+# Hi there 👋, I'm Kadir Berk İpek.
+I'm Berk from Turkey, and i decided to make a new career for myself by entering the IT sector. I am currently developing myself in the Clarusway IT Bootcamp program. 
 #### Development
 ![Development](https://www.web-ofisi.com/tema/webofisi/uploads/blog/difference-between-html-css-and-javascript.png)
 
-I'm Berk from Turkey, and i decided to make a new career for myself by entering the IT sector. I am currently developing myself in the Clarusway IT Bootcamp program. 
+##Skills
+💻 HTML / CSS / JS
 
-Skills:  JS / HTML / CSS 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning html / css / js 
